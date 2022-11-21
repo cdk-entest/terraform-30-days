@@ -169,7 +169,7 @@ resource "aws_iam_role_policy_attachment" "lambda_policy" {
 
 ## Troubleshooting
 
-might need to downgrade to aws 4.0.0 for compatible or check how to create a S3 in the newest aws terraform [HERE]
+might need to downgrade to aws 4.0.0 for compatible or check how to create a S3 in the newest aws terraform [Version 4 S3 Bucket Refactor](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/guides/version-4-upgrade#s3-bucket-refactor)
 
 ```tsx
 terraform {
