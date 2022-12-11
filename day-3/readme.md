@@ -13,6 +13,8 @@ this is day 3 and will show
 - variables
 - setup
 
+create a vpc, igw and route table in the setup, then create a webserver, subnet using module and variables from modules.
+
 ## Project Structure
 
 ```
